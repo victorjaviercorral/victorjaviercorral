@@ -34,7 +34,7 @@ Ships as an installable [Claude Code](https://docs.claude.com/en/docs/claude-cod
 ### In progress, in parallel
 
 - **Product-Flow-Kit** the paid, interconnected evolution of the toolkit above: one framework where each tool's output feeds the next (flow throughput → forecast → WSJF job size), self-hosted for teams. Private repo, active development.
-- **[LegoVirtualMuseum](https://github.com/victorjaviercorral/LegoVirtualMuseum)** a personal Lego collection manager, and the real-world pilot project used to validate the Human-AI Copilot Framework end-to-end on an MVP with user data (Stage: MVP · Exposure: X2).
+- **[BricksVirtualCollector](https://github.com/victorjaviercorral/LegoVirtualMuseum)** a personal Lego collection manager, and the real-world pilot project used to validate the Human-AI Copilot Framework end-to-end on an MVP with user data (Stage: MVP · Exposure: X2).
 
 ---
 
